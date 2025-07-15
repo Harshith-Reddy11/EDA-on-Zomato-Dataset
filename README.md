@@ -56,6 +56,16 @@ The notebook includes:
 
 ---
 
+## 📈 Future Enhancements
+- Perform advanced statistical analysis and hypothesis testing
+- Build machine learning models to predict ratings or cost
+- Add interactive visualizations using Plotly or Streamlit dashboards
+- Clean and enrich the dataset with additional external data sources
+- Deploy insights as a web application or share via a data storytelling platform
+- Automate EDA process with scripts and generate dynamic reports
+
+---
+
 ## ⚙️ Installation
 ```bash
 git clone https://github.com/Harshith-Reddy11/EDA-on-Zomato-Dataset.git
