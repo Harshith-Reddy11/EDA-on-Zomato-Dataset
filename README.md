@@ -62,7 +62,7 @@ The notebook includes:
 - Add interactive visualizations using Plotly or Streamlit dashboards
 - Clean and enrich the dataset with additional external data sources
 - Deploy insights as a web application or share via a data storytelling platform
-- Automate EDA process with scripts and generate dynamic reports
+
 
 ---
 
